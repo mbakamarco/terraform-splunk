@@ -1,1 +1,1 @@
-# splunk_week_7
+# terraform-splunk
